@@ -1,6 +1,8 @@
 ####androidpackages
 =============================================
 
+![](http://chinaphonehouse.org/wp-content/uploads/2014/11/Google_Android_5.0_Lollipop_logo.png)
+
 * [9GAG](https://play.google.com/store/apps/details?id=com.ninegag.android.app) 
 * [Admin. de dispositivos](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) 
 * [Adobe Flash Player 11.1](https://play.google.com/store/apps/details?id=com.adobe.flashplayer) 
@@ -69,6 +71,4 @@ List made using [List My Apps](https://play.google.com/store/apps/details?id=de.
 
 Release notes
 =============================================
-You can check it here
-
-https://github.com/adgellida/androidpackages/blob/master/Releasenotes.md
+You can check it [here](https://github.com/adgellida/androidpackages/blob/master/Releasenotes.md)
