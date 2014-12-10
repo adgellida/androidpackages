@@ -1,7 +1,7 @@
 ####androidpackages
 =============================================
 
-![](http://chinaphonehouse.org/wp-content/uploads/2014/11/Google_Android_5.0_Lollipop_logo.png)
+![](http://chinaphonehouse.org/wp-content/uploads/2014/11/Google_Android_5.0_Lollipop_logo.png =250x)
 
 * [9GAG](https://play.google.com/store/apps/details?id=com.ninegag.android.app) 
 * [Admin. de dispositivos](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) 
