@@ -89,7 +89,7 @@ List made using [List My Apps](https://play.google.com/store/apps/details?id=de.
 
 Ancient lists
 =============================================
-* [v2014.12.10 alpha](https://github.com/adgellida/androidpackages/blob/master/Ancient%20lists/v2014.12.10 alpha)
+* [v2014.12.10 alpha](https://github.com/adgellida/androidpackages/blob/master/Ancient lists/v2014.12.10 alpha.md)
 
 Release notes
 =============================================
