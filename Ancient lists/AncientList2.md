@@ -1,5 +1,5 @@
 
-* v2014.12.23 alpha
+* AncientList2
 
 * [9GAG](https://play.google.com/store/apps/details?id=com.ninegag.android.app) 
 * [Addons Detector](https://play.google.com/store/apps/details?id=com.denper.addonsdetector) 

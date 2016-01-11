@@ -1,5 +1,5 @@
 
-* v2014.12.10 alpha
+* AncientList1
 
 * [9GAG](https://play.google.com/store/apps/details?id=com.ninegag.android.app) 
 * [Admin. de dispositivos](https://play.google.com/store/apps/details?id=com.google.android.apps.adm) 
