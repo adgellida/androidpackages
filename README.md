@@ -1,6 +1,6 @@
 ####androidpackages
 =============================================
-<img src="http://img.europapress.net/fotoweb/fotonoticia_20150818123713_980_031_406.jpg" width="250">
+<img src="http://img.europapress.net/fotoweb/fotonoticia_20150818123713_980_031_406.jpg" width="80">
 
 * [AdAway](play.google.com/store/apps/details?id=org.adaway) 
 * [Adobe Flash Player 11.1](play.google.com/store/apps/details?id=com.adobe.flashplayer) 
