@@ -1,6 +1,19 @@
 <img src="http://solucioneswindroid.es/wp-content/uploads/2016/03/08377228-photo-android-n-logo.jpg" width="80"> androidpackages
 =============================================
 
+<p align="center">
+    <a href="https://www.gnu.org/licenses/gpl-2.0.en.html" target="_blank"><img src="https://img.shields.io/badge/license-GPLv2-blue.svg" alt="GNU GPL v2"></a>
+    <a href="https://github.com/adgellida/androidpackages/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/adgellida/androidpackages.svg" alt="stars"></a>
+    <a href="https://github.com/adgellida/androidpackages/network" target="_blank"><img src="https://img.shields.io/github/forks/adgellida/androidpackages.svg" alt="forks"></a>
+    <a href="https://github.com/adgellida/androidpackages/issues?q=is%3Aopen" target="_blank"><img src="https://img.shields.io/github/issues/adgellida/androidpackages.svg" alt="open issues"></a>
+    <a href="https://github.com/adgellida/androidpackages/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/adgellida/androidpackages/total.svg" alt="total downloads"></a>
+    <a href="https://github.com/adgellida/androidpackages/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/adgellida/androidpackages/v2017.09.09/total.svg" alt="total downloads latest release"></a>
+    <a href="https://github.com/adgellida/androidpackages/releases/latest" target="_blank"><img src="https://img.shields.io/badge/latest release-no releases-blue.svg" alt="latest release"></a>
+    <a href="https://github.com/adgellida/androidpackages/commits/master" target="_blank"><img src="https://img.shields.io/badge/maintained-no-red.svg" alt="maintained"></a>
+    <a href="https://github.com/adgellida/androidpackages/releases"><img src="https://img.shields.io/badge/platform-Android-lightgrey.svg" alt="Platforms"></a>
+    <a href="https://github.com/adgellida/androidpackages/releases"><img src="https://img.shields.io/badge/status-alpha-orange.svg" alt="Status"></a>
+</p>
+
 A simple markdown list where my apps installed (or important) are located.
 
 * [AdAway](play.google.com/store/apps/details?id=org.adaway) 
