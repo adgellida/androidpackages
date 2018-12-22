@@ -1,4 +1,4 @@
-<img src="http://solucioneswindroid.es/wp-content/uploads/2016/03/08377228-photo-android-n-logo.jpg" width="80"> androidpackages
+<img src="https://raw.githubusercontent.com/adgellida/androidpackages/master/logo.png" width="80"> androidpackages
 =============================================
 
 <p align="center">
